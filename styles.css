@@ -11,5 +11,14 @@ h1, h2, h3 {
 img {
     width:500px;
     height:500px;
+    margin: 0 auto;
+    display: block;
+}
+
+h1 {
     text-align: center;
+}
+
+li {
+    margin-bottom: 10px;
 }
